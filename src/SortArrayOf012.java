@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SortArryaOf012 {
+public class SortArrayOf012 {
     public static void sort012(int a[], int n) {
         // code here
         Arrays.sort(a);
